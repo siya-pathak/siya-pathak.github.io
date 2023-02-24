@@ -1,5 +1,5 @@
 title = "Siya Pathak"
-baseURL = "https://gohugo-theme-ananke.pages.dev"
+baseURL = "https://siya-pathak.github.io/portfolio-hugo/"
 languageCode = "en-us"
 theme ="ananke"
 resourceDir = "../resources"
@@ -34,4 +34,4 @@ enableRobotsTXT = true
 
 [[params.ananke_socials]]
 name = "twitter"
-url = "https://twitter.com/GoHugoIO"
+url = "https://twitter.com/supitssiya"
