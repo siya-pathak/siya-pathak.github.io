@@ -10,5 +10,6 @@
       {{ end }}
       {{- partial "new-window-icon.html" . -}}
     </a>
+    {{ $rel := .rel | default "noopener" }}
   {{ end }}
 </div>

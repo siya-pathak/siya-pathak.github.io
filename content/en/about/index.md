@@ -1,5 +1,5 @@
 ---
-title: "About me"
+title: "About Me"
 description: "Hi! This is Siya and I'm a sophomore majoring in Information Technology."
 featured_image: '/images/about-bg.jpg'
 menu:

@@ -11,6 +11,7 @@ Paginate = 3 # this is set low for demonstrating with dummy content. Set to a hi
 googleAnalytics = ""
 enableRobotsTXT = true
 
+
 [languages]
   [languages.en]
     title = "Siya Pathak"
@@ -34,5 +35,17 @@ enableRobotsTXT = true
   recent_posts_number = 3
 
 [[params.ananke_socials]]
+name = "github"
+url = "https://github.com/siya-pathak"
+
+[[params.ananke_socials]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/siya-pathak/"
+
+[[params.ananke_socials]]
 name = "twitter"
 url = "https://twitter.com/supitssiya"
+
+
+
+
