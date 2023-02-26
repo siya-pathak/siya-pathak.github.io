@@ -12,4 +12,10 @@ I'm a UG student majoring in Information Technology.
 I am a Full-stack developer with good knowledge of algortithms, logic, programming, and its implementations.
 
 ---
-Here is some of my work: 
+
+{{< download Siya_Pathak_resume.pdf >}}
+View Resume
+{{< /download >}}
+
+---
+Also, here are some recent projects I worked on: 

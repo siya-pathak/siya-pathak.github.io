@@ -8,7 +8,7 @@ menu:
 ---
 <!-- {{< figure src="/images/me.jpeg" title="Illustration from Victor Hugo et son temps (1881)" >}} -->
 
-Hi! My name is Siya, I'm currently a sophomore undergraduate student of Information Technology at Indira Gandhi Delhi Technical University for Women. I'm a full-stack developer and some of the technologies and tools I work/ have worked with are (in no particular order):
+Hi! My name is Siya, I'm currently a sophomore undergraduate student of Information Technology at Indira Gandhi Delhi Technical University for Women. I'm a full-stack developer and have previosuly interned at Cisco Thinqbator (IGDTUW branch) as a back-end developer primarily. Some of the technologies and tools I work/ have worked with are (in no particular order):
 
 HTML/CSS/Bootstrap/Bulma UI, JavaScript, Embedded JavaScript, NodeJS, Express, Git/ Version Control System, MongoDB, Python, C++, C, PHP, MySQL, Powershell, React.
 
@@ -21,3 +21,5 @@ Besides development and programming I enjoy watching sports.
 {{< download Siya_Pathak_resume.pdf >}}
 View Resume
 {{< /download >}}
+
+--- 
