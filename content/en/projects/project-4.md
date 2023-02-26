@@ -3,7 +3,7 @@ date: 2022-09-28T11:14:48-04:00
 description: "A smart waste management system that eliminates what doesn't help you evolve."
 featured_image: "/images/purge.PNG"
 tags: ["HTML", "CSS", "Bootstrap", "JavaScript"]
-title: "Hackathon Team Project: Purge"
+title: "Hackathon Team Project: Purge (Top 10)"
 ---
 This was built as part of a hackathon by team of 4.
 

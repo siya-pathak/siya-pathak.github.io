@@ -3,7 +3,7 @@ date: 2023-01-17T11:15:58-04:00
 description: "The one place to read and write technical blogs and articles."
 featured_image: "/images/i-IGDTUW.PNG"
 tags: ["HTML", "CSS", "JavaScript", "React", "MongoDB", "Express", "Nodejs"]
-title: "Hackathon Team Project: i-IGDTUW"
+title: "Hackathon Team Project: i-IGDTUW (2nd Runner Up)"
 ---
 This was built as part of a hackathon by a team of 4.
 

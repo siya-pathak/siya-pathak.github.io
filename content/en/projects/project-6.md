@@ -3,7 +3,7 @@ date: 2023-01-29T11:25:05-04:00
 description: "A pizza booking bot with the facility to customize your bite."
 featured_image: "/images/pizzabae.PNG"
 tags: ["Python", "React", "HTML", "CSS", "Tailwind CSS"]
-title: "Hackathon Team Project: Pizzabae"
+title: "Hackathon Team Project: Pizzabae (1st Runner-Up)"
 ---
 
 PizzaBae is a simple and user-friendly chatbot built on Telegram that helps customers order pizza quickly and easily.
