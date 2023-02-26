@@ -18,7 +18,7 @@ Besides development and programming I enjoy watching sports.
 
 --- 
 
-{{< download Siya_Pathak_resume.pdf >}}
+{{< download resume.pdf >}}
 View Resume
 {{< /download >}}
 

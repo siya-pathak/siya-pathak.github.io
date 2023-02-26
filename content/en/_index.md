@@ -13,9 +13,9 @@ I am a Full-stack developer with good knowledge of algortithms, logic, programmi
 
 ---
 
-{{< download Siya_Pathak_resume.pdf >}}
+{{< download resume.pdf >}}
 View Resume
 {{< /download >}}
 
 ---
-Also, here are some recent projects I worked on: 
+Some recent projects I worked on: 
