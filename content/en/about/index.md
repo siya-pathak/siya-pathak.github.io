@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-description: "Hi! This is Siya and I'm a sophomore majoring in Information Technology."
+description: ""
 featured_image: '/images/about-bg.jpg'
 menu:
   main:
@@ -8,4 +8,16 @@ menu:
 ---
 <!-- {{< figure src="/images/me.jpeg" title="Illustration from Victor Hugo et son temps (1881)" >}} -->
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+Hi! My name is Siya, I'm currently a sophomore undergraduate student of Information Technology at Indira Gandhi Delhi Technical University for Women. I'm a full-stack developer and some of the technologies and tools I work/ have worked with are (in no particular order):
+
+HTML/CSS/Bootstrap/Bulma UI, JavaScript, Embedded JavaScript, NodeJS, Express, Git/ Version Control System, MongoDB, Python, C++, C, PHP, MySQL, Powershell, React.
+
+I also have good knowledge of algortithms, logic, programming, and its implementations, which I practice in C++. 
+
+Besides development and programming I enjoy watching sports.
+
+--- 
+
+{{< download Siya_Pathak_resume.pdf >}}
+View Resume
+{{< /download >}}
