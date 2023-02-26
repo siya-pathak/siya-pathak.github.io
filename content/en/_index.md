@@ -18,4 +18,4 @@ View Resume
 {{< /download >}}
 
 ---
-Some recent projects I worked on: 
+
