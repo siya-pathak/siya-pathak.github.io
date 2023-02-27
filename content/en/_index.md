@@ -7,9 +7,7 @@ theme_version: '2.8.2'
 cascade:
   featured_image: '/images/home-bg.jpg'
 ---
-I'm a UG student majoring in Information Technology.
-
-I am a Full-stack developer with good knowledge of algortithms, logic, programming, and its implementations.
+I'm a UG student majoring in Information Technology ineterested in full-stack development with good knowledge of algorithms, logic, programming, and its implementations.
 
 ---
 
